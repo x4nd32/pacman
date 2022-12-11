@@ -1,4 +1,3 @@
-# pacman
 Demo of Pacman animation with JS
 <h1>Demo of Pacman animation with JS</h1>
 
